@@ -1,9 +1,0 @@
-
-Approach to finding the best neighbourhood in London to open a new Italian restaurant:
-
-A recent report found that "full-service restaurant revenues are directly correlated with the available level of customers' disposable income". (Parsa, H. & Kreeger, Jeff & van der Rest, Jean-Pierre & Xie, Karen & Lamb, Jackson. (2019). Why Restaurants Fail? Part V: Role of Economic Factors, Risk, Density, Location, Cuisine, Health Code Violations and GIS Factors. International Journal of Hospitality & Tourism Administration. 10.1080/15256480.2019.1598908. )
-
-This should be a contributing factor in deciding upon the most suitable neighbourhood for a new Italian restaurant, therefore, I will bring in an external dataset showing the regional gross disposable household income (GDHI) in addition to the Foursquare data.
-
-Using the Foursquare API I will obtain details of all the restaurants in the borough with the highest GDHI and compare the neighbourhoods in the borough, looking at number of restaurants in total and how many of them are Italian. 
-
